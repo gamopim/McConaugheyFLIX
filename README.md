@@ -1,2 +1,2 @@
 # netflix-clone
- Aula de como recriar a interface do Netflix (DIO)
+ McConaugheyFLIX - Repaginação da interface da Netflix voltada para filmes de Matthew McConaughey ( atividade da DIO)
